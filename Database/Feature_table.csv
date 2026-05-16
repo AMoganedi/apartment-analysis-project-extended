@@ -1,0 +1,5 @@
+Feature,Correlation,"R_Square (in %)",Regression_slope
+Bedrooms,0.23,5.29,3481.47
+Bathrooms,0.48,23.00,8211.95
+"Floor size",0.13,1.69,53.52
+"Parking space",0.22,4.84,4082.71

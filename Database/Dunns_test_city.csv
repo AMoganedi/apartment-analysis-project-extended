@@ -1,0 +1,17 @@
+,city_1,city_2,p_value
+0,Johannesburg,Johannesburg,1.0
+1,Midrand,Johannesburg,4.416741787924379e-43
+2,Pretoria,Johannesburg,4.8980624015735026e-08
+3,Sandton,Johannesburg,6.856963799556622e-114
+4,Johannesburg,Midrand,4.416741787924379e-43
+5,Midrand,Midrand,1.0
+6,Pretoria,Midrand,1.529571990536576e-24
+7,Sandton,Midrand,7.477303074250627e-07
+8,Johannesburg,Pretoria,4.8980624015735026e-08
+9,Midrand,Pretoria,1.529571990536576e-24
+10,Pretoria,Pretoria,1.0
+11,Sandton,Pretoria,1.7092854493349817e-91
+12,Johannesburg,Sandton,6.856963799556622e-114
+13,Midrand,Sandton,7.477303074250627e-07
+14,Pretoria,Sandton,1.7092854493349817e-91
+15,Sandton,Sandton,1.0
